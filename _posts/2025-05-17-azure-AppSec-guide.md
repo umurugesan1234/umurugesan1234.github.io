@@ -95,11 +95,11 @@ Hackers exploited an SQL injection vulnerability in the Flaticon website to stea
 A stored XSS flaw in Fortnite's old website allowed attackers to hijack accounts and make purchases using users' saved credit card details.  
 [🔗 Read More](https://portswigger.net/daily-swig/xss-slip-up-exposed-fortnite-gamers-to-account-hijack)
 
-3. **DDoS Attack – Dyn DNS Outage (2016)**  
+3. **DDoS Attack – Dyn DNS Outage**  
 A massive DDoS attack on Dyn disrupted internet access to major platforms including Twitter, Netflix, and GitHub.  
 [🔗 Read More](https://www.vxchnge.com/blog/recent-ddos-attacks-on-companies#amazon-web-services-2020)
 
-4. **API Exposure – Twitter API Vulnerability (2020)**  
+4. **API Exposure – Twitter API Vulnerability**  
 A flawed API allowed attackers to match phone numbers with Twitter usernames, exposing sensitive information.  
 [🔗 Read More](https://www.zdnet.com/article/twitter-says-an-attacker-used-its-api-to-match-usernames-to-phone-numbers/)
 
@@ -112,7 +112,7 @@ To build secure, cloud-native applications, consider a **Zero Trust approach**�
 
 ![Zero Trust Architecture](/assets/images/zero-trust-diagram.png)
 
-### Key Strategies
+### Key Strategies from Azure cloud
 
 - **Azure Front Door + WAF**: Stops threats at the edge
 - **DDoS Protection**: Mitigates large-scale denial of service attacks
@@ -121,6 +121,7 @@ To build secure, cloud-native applications, consider a **Zero Trust approach**�
 - **Application Gateway with WAF**: Protects Layer 7 HTTP apps against OWASP Top 10
 - **NSG, ASG, and UDRs**: Fine-tuned traffic segmentation and control
 - **Service Endpoints**: Restrict access to Azure PaaS services like SQL and Storage
+- **Private Endpoints**: Enable secure, private IP-based access to Azure PaaS services like SQL, Storage, and Web Apps.
 
 ---
 
