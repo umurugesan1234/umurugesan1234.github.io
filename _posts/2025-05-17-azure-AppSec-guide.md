@@ -1,7 +1,9 @@
 ---
+title: "Azure AppSec Guide"
 date: 2025-05-16
 author: Murugesan U
 tags: [cloud security, application security, devsecops, azure, zero trust]
+categories: [Azure, Security]
 ---
 
 # The Urgency of Application Security in the Cloud
