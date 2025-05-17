@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: TechAdvanX Blogs
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: TechAdvanX Blogs
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:https://media.licdn.com/dms/image/v2/D5603AQGDeGCqGcpWHg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730725066648?e=1752710400&v=beta&t=R7EowjLvHrinQ5zWuAVHNIB1EjMIxm8SW_Xnc4kJziA
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
