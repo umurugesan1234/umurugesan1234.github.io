@@ -40,7 +40,7 @@ A simple three-step cycle can help you embed security into every stage of the ap
 Catch issues early with automated tools:
 - **Static & Dynamic Analysis** (SAST, DAST)
 - **Software Composition Analysis** (SCA)
-- **Azure Defender for App Services**
+- **Microsoft Defender for App Services**
 - **GitHub Advanced Security**
 
 ### 2. Fix What You Find
@@ -48,7 +48,7 @@ Catch issues early with automated tools:
 Remediate issues before they become incidents:
 - Apply secure coding best practices
 - Patch third-party dependencies
-- Integrate fixes into CI/CD pipelines with Azure DevOps or GitHub
+- Integrate fixes into CI/CD pipelines with Azure DevOps or GitHub actions
 
 ### 3. Prevent Future Issues
 
@@ -130,6 +130,23 @@ To build secure, cloud-native applications, consider a **Zero Trust approach**�
 Security can’t be bolted on—it needs to be **built-in**. In the cloud, where change is constant and threats evolve rapidly, application security is not just important—it’s **urgent**.
 
 Whether you’re developing the next big SaaS platform or modernizing legacy systems, investing in secure application architecture is critical. The earlier you embed security, the stronger and more resilient your cloud journey will be.
+
+---
+
+## Further Readings & References
+
+- **Overview of Defender for App Service**  
+  Protect your Azure App Service web apps and APIs.  
+  🔗 [Read more](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-app-service-introduction)
+
+- **Secure Development Best Practices**  
+  Guidance on building secure applications in Azure.  
+  🔗 [Read more](https://learn.microsoft.com/en-us/azure/security/develop/secure-dev-overview)
+
+- **SAST & DAST Tools (Free for Open Source)**  
+  A list of free Static and Dynamic Application Security Testing tools provided by OWASP.  
+  🔗 [View tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
+
 
 ---
 
